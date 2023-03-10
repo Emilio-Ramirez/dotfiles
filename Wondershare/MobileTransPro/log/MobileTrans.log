@@ -1,0 +1,150 @@
+12/17/2022 20:29:13 
+12/17/2022 20:29:13 ===============================================
+12/17/2022 20:29:13 Program.Start Product=MobileTrans, Version=1.3.2.131
+12/17/2022 20:29:13 ClientSign:5E287734-A4E4-5520-8A29-E85B13AB6BCB
+12/17/2022 20:29:13 Operating System: Unix 22.2.0.0
+12/17/2022 20:29:13 Friendly Version: MaxOSX OS64Bits
+12/17/2022 20:29:13 Language: English (United States)
+12/17/2022 20:29:13 ProcessorCount: 8
+12/17/2022 20:29:13 iTunesVersion:0.0
+12/17/2022 20:29:13 end load languages.
+12/17/2022 20:29:14 Screen WorkingArea: 1440_814
+12/17/2022 20:29:14 Program.InitCustomize
+12/17/2022 20:29:14 end Init Customize.
+12/17/2022 20:29:14 Access to the path "/usr/share/Wondershare\MobileTrans\data_api" is denied.
+12/17/2022 20:29:16 end Init GA.
+12/17/2022 20:29:16 Init register module
+12/17/2022 20:29:16 end Init Register Module.
+12/17/2022 20:29:16 Start WAF...
+12/17/2022 20:29:16 end Start WAF.
+12/17/2022 20:29:16 end Init BugSplat.
+12/17/2022 20:29:16 end Init Environment.
+12/17/2022 20:29:16 ====MT===Record App version: 2.19.360======
+12/17/2022 20:29:17 Program.Run
+12/17/2022 20:29:17 /Users/.Android
+12/17/2022 20:29:17 <CloudUpdateHelper> get the result of the forced update of program , start...
+12/17/2022 20:29:17 RegisterUSBDevicesNotify handle:140365398640576
+12/17/2022 20:29:17 MacUsbNotifier  StartMonitor start
+12/17/2022 20:29:17 MacUsbNotifier  StopMonitor
+12/17/2022 20:29:17 MacOS  StartMonitorWorker start
+12/17/2022 20:29:17 MacUsbNotifier  DoListen start
+12/17/2022 20:29:17 MacUsb DeviceConnectCallback 
+12/17/2022 20:29:17 MacUsb DeviceDisconnectCallback 
+12/17/2022 20:29:17 MacOS  StartEnumeratorWorker start
+12/17/2022 20:29:17 MacOS  StartEnumeratorWorker while (!bExit) 
+12/17/2022 20:29:17 MacOS  StartEnumeratorWorker ScanMacUSB   
+12/17/2022 20:29:17 MacOS  StartEnumeratorWorker bFisrtScan end.
+12/17/2022 20:29:17 <CloudUpdateHelper> program check update result: {"need_update":false}
+12/17/2022 20:29:17 begin load...
+12/17/2022 20:29:18 <CloudUpdateHelper> end get program updateInfo.
+12/17/2022 20:29:18 <CloudUpdateHelper> get the result of update WA/WB Apk, start...
+12/17/2022 20:29:18 <CloudUpdateHelper> start get wa apk updateInfo.
+12/17/2022 20:29:18 <AAPT> 1 aapt apk version start. apkPath: /Applications/MobileTrans.app/Contents/MonoBundle/WhatsApp_Specified.apk
+12/17/2022 20:29:18 <AAPT> 1 apk version: 2.22.9.78
+12/17/2022 20:29:18 <AAPT> 1 aapt apk version end. 
+12/17/2022 20:29:18 <AAPT> 2 aapt apk version start. apkPath: /Users/emilioramirez/.config/Wondershare/MobileTransPro/WhatsApp/WhatsApp_Specified.apk
+12/17/2022 20:29:18 <CloudUpdateHelper> Error output:W/asset   ( 9223): Asset path /Users/emilioramirez/.config/Wondershare/MobileTransPro/WhatsApp/WhatsApp_Specified.apk is neither a directory nor file (type=1).
+12/17/2022 20:29:18 <CloudUpdateHelper> Error output:ERROR: dump failed because assets could not be loaded
+12/17/2022 20:29:18 <AAPT> 2 aapt apk version end. 
+12/17/2022 20:29:18 waVersion: 2.22.9.78, inner_version: 18
+12/17/2022 20:29:18 StartPage Font: System.Drawing.Font
+12/17/2022 20:29:18 end load...
+12/17/2022 20:29:18 <CloudUpdateHelper> wa check update result: {"expired":true,"new_apk":{"id":23,"version":"2.22.21.83","inner_version":"18","type":0,"download_url":"http://download.wondershare.com/mobiletrans/apk/com.whatsapp_2.22.21.83_18.apk","expired":false,"md5":"b35a3df17fc58c6228d6d5d274d820bb","commit_time":"2022-10-26T10:08:00.000Z"}}
+12/17/2022 20:29:18 <CloudUpdateHelper> end get wa apk updateInfo.
+12/17/2022 20:29:18 <CloudUpdateHelper> wa apk need to update.
+12/17/2022 20:29:18 <CloudUpdateHelper> start get wb apk updateInfo.
+12/17/2022 20:29:18 <ApkDownloader> wa Apk download start...
+12/17/2022 20:29:18 <AAPT> 3 aapt apk version start. apkPath: /Applications/MobileTrans.app/Contents/MonoBundle/WB_Specified.apk
+12/17/2022 20:29:18 <AAPT> 3 apk version: 2.22.9.78
+12/17/2022 20:29:18 <AAPT> 3 aapt apk version end. 
+12/17/2022 20:29:18 <AAPT> 4 aapt apk version start. apkPath: /Users/emilioramirez/.config/Wondershare/MobileTransPro/WhatsApp/WB_Specified.apk
+12/17/2022 20:29:18 <CloudUpdateHelper> Error output:W/asset   ( 9227): Asset path /Users/emilioramirez/.config/Wondershare/MobileTransPro/WhatsApp/WB_Specified.apk is neither a directory nor file (type=1).
+12/17/2022 20:29:18 <CloudUpdateHelper> Error output:ERROR: dump failed because assets could not be loaded
+12/17/2022 20:29:18 <AAPT> 4 aapt apk version end. 
+12/17/2022 20:29:18 wbVersion: 2.22.9.78, inner_version: 13
+12/17/2022 20:29:18 <CloudUpdateHelper> wb check update result: {"expired":true,"new_apk":{"id":24,"version":"2.22.21.83","inner_version":"13","type":1,"download_url":"http://download.wondershare.com/mobiletrans/apk/com.whatsapp.w4b_2.22.21.83_13.apk","expired":false,"md5":"de5a578cc258ce10fb93bace0d23c883","commit_time":"2022-10-26T10:08:59.000Z"}}
+12/17/2022 20:29:18 <CloudUpdateHelper> end get wb apk updateInfo.
+12/17/2022 20:29:18 <CloudUpdateHelper> wb apk need to update.
+12/17/2022 20:29:18 <ApkDownloader> wb Apk download start...
+12/17/2022 20:29:19 Screen WorkingArea: 814
+12/17/2022 20:29:19 <NPSHelper> begin get strategyId.
+12/17/2022 20:29:19 ConnectionScanTask start
+12/17/2022 20:29:19 ConnectionScanTask rescan start
+12/17/2022 20:29:19 ConnectionScanTask rescan end
+12/17/2022 20:29:19 ConnectionScanTask End
+12/17/2022 20:29:19 Error
+12/17/2022 20:29:19 <Main> Scan Failed: 0
+12/17/2022 20:29:23 <UserRetainDiscount> get discount page show result: False
+12/17/2022 20:29:23 <NPSHelper> end get strategyId.
+12/17/2022 20:30:31 <UploadWhatsappHelper>: Error: ConnectFailure (Connection timed out)
+12/17/2022 20:30:36 <ApkDownloader> wa download completed: Success
+12/17/2022 20:30:36 <ApkDownloader> wa Apk download ended.
+12/17/2022 20:30:39 <ApkDownloader> wb download completed: Success
+12/17/2022 20:30:39 <ApkDownloader> wb Apk download ended.
+12/17/2022 20:33:59 <UpdateWAFStatus> purchase: False
+12/17/2022 20:34:02 <UpdateWAFStatus> purchase: False
+12/17/2022 20:34:26 [MainControl]SourceControl set
+12/17/2022 20:34:26 [MainControl]DestControl set
+12/17/2022 20:34:26 ClickEntrance: PhoneTransfer
+12/17/2022 20:34:38 Back2.
+12/17/2022 20:43:30 ConnectionHub OnDeviceArrival:IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:30 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:30 ConnectionHub.FoundDevice
+12/17/2022 20:43:30 	Id=IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:30 	Manufacturer=Apple Inc.
+12/17/2022 20:43:30 	Product=iPhone
+12/17/2022 20:43:30 	FriendlyName=iPhone
+12/17/2022 20:43:30 	SN=00008110001025DE3A2A801E
+12/17/2022 20:43:30 	VID=1452
+12/17/2022 20:43:30 	PID=4776
+12/17/2022 20:43:30 	Class=0
+12/17/2022 20:43:30 	SubClass=0
+12/17/2022 20:43:30 	Protocol=0
+12/17/2022 20:43:30 AddUSBConnection VID:05ac PID:12a8 Manufacturer:Apple Inc. Product:iPhone
+12/17/2022 20:43:30 USBDeviceBaseInfo::GetDeviceInfo GetDeviceFromRemote VID:05ac PID:12a8 Manufacturer:Apple Inc. Product:iPhone
+12/17/2022 20:43:30 	FriendlyName=
+12/17/2022 20:43:30 ConnectionHub.AddConnection(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000, iOS, 00008110001025DE3A2A801E)
+12/17/2022 20:43:31 Connection inserter Start
+12/17/2022 20:43:31 Connection inserter create new device
+12/17/2022 20:43:31 Connection inserter device is iOS
+12/17/2022 20:43:31 Connection inserter AddService
+12/17/2022 20:43:31 Device manager add device SerialNumber: 00008110001025DE3A2A801E
+12/17/2022 20:43:33 Download Driver DB Ok, Version=4.0.1428646627
+12/17/2022 20:43:33 Replace DriverDb Ok
+12/17/2022 20:43:50 MacUsb DeviceConnectCallback 
+12/17/2022 20:43:50 MacUsb DeviceDisconnectCallback 
+12/17/2022 20:43:50 ConnectionHub OnDeviceArrival:IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:50 ConnectionHub.RemoveConnection(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000, 00008110001025DE3A2A801E)
+12/17/2022 20:43:50 ConnectionHub.OnConnectionLost(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000)
+12/17/2022 20:43:50 Device manager remove device SerialNumber: 00008110001025DE3A2A801E
+12/17/2022 20:43:50 MacUsb DeviceConnectCallback 
+12/17/2022 20:43:50 ConnectionHub OnDeviceArrival:IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:50 AddUSBConnection deviceId: IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:50 ConnectionHub.FoundDevice
+12/17/2022 20:43:50 	Id=IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 20:43:50 	Manufacturer=Apple Inc.
+12/17/2022 20:43:50 	Product=iPhone
+12/17/2022 20:43:50 	FriendlyName=iPhone
+12/17/2022 20:43:50 	SN=00008110001025DE3A2A801E
+12/17/2022 20:43:50 	VID=1452
+12/17/2022 20:43:50 	PID=4776
+12/17/2022 20:43:50 	Class=0
+12/17/2022 20:43:50 	SubClass=0
+12/17/2022 20:43:50 	Protocol=0
+12/17/2022 20:43:50 AddUSBConnection VID:05ac PID:12a8 Manufacturer:Apple Inc. Product:iPhone
+12/17/2022 20:43:50 	FriendlyName=
+12/17/2022 20:43:50 ConnectionHub.AddConnection(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000, iOS, 00008110001025DE3A2A801E)
+12/17/2022 20:43:50 Connection inserter Start
+12/17/2022 20:43:50 Connection inserter create new device
+12/17/2022 20:43:50 Connection inserter device is iOS
+12/17/2022 20:43:50 Connection inserter AddService
+12/17/2022 20:43:50 Device manager add device SerialNumber: 00008110001025DE3A2A801E
+12/17/2022 21:37:37 MacUsb DeviceDisconnectCallback 
+12/17/2022 21:37:37 ConnectionHub OnDeviceArrival:IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000
+12/17/2022 21:37:37 ConnectionHub.RemoveConnection(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000, 00008110001025DE3A2A801E)
+12/17/2022 21:37:37 ConnectionHub.OnConnectionLost(IOService:/AppleARMPE/arm-io@10F00000/AppleT810xIO/usb-drd0@82280000/AppleT8103USBXHCI@00000000/usb-drd0-port-hs@00100000/iPhone@00100000)
+12/17/2022 21:37:37 Device manager remove device SerialNumber: 00008110001025DE3A2A801E
+12/17/2022 21:38:48 MacUsbNotifier  StopMonitor
+12/17/2022 21:38:48 Transfer clear cache dir /Users/emilioramirez/.config/Wondershare/MobileTransPro/DrFoneRecovery
+12/17/2022 21:38:48 ok
+12/17/2022 21:38:48 MacOS  StartEnumeratorWorker while (!bExit) end ---- 
