@@ -1,2 +1,3 @@
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
+<h1> My Dotfiles for coding </h1>
+<h2> Vim  Fish  Tmux </h2>
+<p> Still working on it </p>
